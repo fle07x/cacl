@@ -49,7 +49,7 @@ class ViewController: UIViewController {
         switch operand{
         case "/":
             result = Double(numberOne)! /
-            Double(numberTwo)!
+            Double( numberTwo)!
         case "+":
             result = Double(numberOne)! +
             Double(numberTwo)!
